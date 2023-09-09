@@ -1,2 +1,2 @@
-#Stages of a project
+# Stages of a project
 
